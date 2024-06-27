@@ -17,7 +17,7 @@ Badge [source](https://shields.io/)
 
 ## Authors
 
-- [@semasuka](https://www.github.com/semasuka)
+- [@karti358](https://github.com/karti358)
 
 ## Table of Contents
 
@@ -125,7 +125,7 @@ git init
 Clone the project
 
 ```bash
-git clone https://github.com/semasuka/Credit-card-approval-prediction-classification.git
+git clone https://github.com/karti358/Credit-Card-Approval-Prediction.git
 ```
 
 enter the project directory
@@ -161,7 +161,7 @@ If you are having issue with streamlit, please follow [this tutorial on how to s
 
 ## Explore the notebook
 
-To explore the notebook file [here](https://nbviewer.org/github/semasuka/Credit-card-approval-prediction-classification/blob/main/Credit_card_approval_prediction.ipynb)
+To explore the notebook file [here](https://nbviewer.org/github/karti358/Credit-Card-Approval-Prediction/blob/master/Credit_card_approval_prediction.ipynb)
 
 ## Deployment on streamlit
 
@@ -226,22 +226,11 @@ Video to gif [tool](https://ezgif.com/)
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change or contribute.
 
-## Blog post
-
-The accompanying blog post for this project can be found [here](https://semasuka.github.io/blog/2022/10/12/credit-card-approval-prediction.html)
-
-## Project featuring
-
-This project was featured on [Luke Barousse Youtube Channel](https://www.youtube.com/c/LukeBarousse), Click on the thumbnail to watch the video
-
-[![IMAGE_ALT](https://img.youtube.com/vi/5Q0gB7imNOo/0.jpg)](https://www.youtube.com/watch?v=5Q0gB7imNOo&t=222s)
-
-
 ## License
 
 MIT License
 
-Copyright (c) 2022 Stern Semasuka
+Copyright (c) 2022 Kartik Yanigar
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
